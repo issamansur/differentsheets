@@ -21,7 +21,7 @@ git config --global log.date short
 
 `git tag <tagname>` - ADD TAG as tagname to this commit
 
-`git switch <hash/tag/HEAD>` - change brain on other with this hash/tag/HEAD
+`git switch [-c] <hash/tag/HEAD>` - change brain on other with this hash/tag/HEAD. If [-c] - create new branch.
 
 `git checkout <./filename/foldername>` - remove all NO INDEXED changes
 
