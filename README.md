@@ -30,3 +30,7 @@ git config --global log.date short
 `git reset [--hard] <hash/tag/HEAD> [<./filename/foldername>`] - remove ALL AHEAD COMMIT WITH ALL INDEXES for choosen. If [--hard] - remove all changes, else - no. (THEY WILL LEAVE FROM BRANCH, BUT THEY WILL BE IN REPOSITORY. For full delete - use `git tag -d <tagname>`
 
 `git tag -d <tagname>` - DELETE ALL UNLINKED COMMITS, associated with this tag from repository
+
+`git mv <filename> <newfilename>` - SAFE renaming/moving file
+
+
