@@ -41,3 +41,4 @@ git config --global log.date short
 
 # tool
 [https://realfavicongenerator.net/](https://realfavicongenerator.net/)
+https://redketchup.io/image-resizer
