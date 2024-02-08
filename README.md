@@ -33,4 +33,11 @@ git config --global log.date short
 
 `git mv <filename> <newfilename>` - SAFE renaming/moving file
 
+# favicons
 
+## links
+
+[https://realfavicongenerator.net/favicon_result?file_id=p1hm31kag815dhhps1vohd16kg6](https://realfavicongenerator.net/favicon_result?file_id=p1hm31kag815dhhps1vohd16kg6)
+
+# tool
+[https://realfavicongenerator.net/](https://realfavicongenerator.net/)
